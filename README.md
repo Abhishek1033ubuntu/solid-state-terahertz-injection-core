@@ -1,8 +1,7 @@
 # Monolithic Solid-State Terahertz Waveguide Injection Core & Logic Architecture
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21530161.svg)](https://doi.org/10.5281/zenodo.21530161)
-![Status](https://img.shields.io/badge/Status-Research_POC-orange)
-![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21530161.svg)](https://doi.org/10.5281/zenodo.21530161) ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+---
 
 ## Project Status: Protected Baseline
 * **Core Source Code:** Confidential / Housed in Private Local Repository
