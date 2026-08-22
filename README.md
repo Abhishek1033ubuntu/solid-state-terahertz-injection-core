@@ -56,10 +56,9 @@ This repository serves as the unified architectural registry and behavioral simu
 
 ---
 
-## Repository Structure
-
-.
-├── LICENSE                          # MIT License
+```text
+Monolithic-Terahertz-Matter-Laser/
+├── LICENSE                          # Master MIT License
 ├── README.md                        # Master Registry Overview
 ├── CITATION.cff                     # Academic Citation Metadata
 ├── docs/
@@ -71,9 +70,9 @@ This repository serves as the unified architectural registry and behavioral simu
 │   ├── 03_matter_laser_logic_splitter.gds
 │   └── 04_matter_laser_wireless_antenna.gds
 └── src/
-├── thz_injection_core.py        # 4-Stage Behavioral Physics Engine
-└── config.json                  # System Physics Parameters
-
+    ├── thz_injection_core.py        # 4-Stage Behavioral Physics Engine
+    └── config.json                  # System Physics Parameters
+```
 
 ---
 
