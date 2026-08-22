@@ -1,0 +1,23 @@
+{
+  "project_metadata": {
+    "title": "Monolithic Terahertz Waveguide Injection Core",
+    "author": "Abhishek Singh",
+    "license": "MIT"
+  },
+  "operational_parameters": {
+    "target_frequency_hz": 100e12,
+    "impedance_free_space_ohm": 377.0,
+    "impedance_2d_channel_ohm": 50.0,
+    "gate_threshold_voltage": 0.5,
+    "cryogenic_temperature_kelvin": 4.2,
+    "chamber_pressure_torr": 1e-10,
+    "acceleration_gradient_mv_m": 50.0
+  },
+  "relativistic_parameters": {
+    "linac_energy_gev": 9.89,
+    "lorentz_factor_gamma": 19354,
+    "undulator_period_mm": 4.0,
+    "undulator_parameter_k": 1.0,
+    "emitted_photon_energy_kev": 154.8
+  }
+}
