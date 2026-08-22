@@ -1,16 +1,10 @@
-# Monolithic Solid-State Terahertz Waveguide Injection Core & Logic Architecture
+# Monolithic Solid-State Terahertz Waveguide Injection Core & Unified Matter-Laser Architecture
 
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21530161.svg)](https://doi.org/10.5281/zenodo.21530161)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22057568.svg)](https://doi.org/10.5281/zenodo.22057568)
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange) ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
 
 
----
-
-# (Master Architectural Registry & Executive Summary)
-
-# Monolithic Solid-State Terahertz Waveguide Injection Core & Unified Matter-Laser Architecture
 
 ## Executive Abstract
 This repository serves as the unified architectural registry and behavioral simulation suite for a micro-system framework bridging vacuum micro-electronics, solid-state 2D plasmonics, and coherent fermion beam dynamics. By bypassing silicon and copper thermal bottlenecks, the architecture natively generates, routes, switches, and beams a coherent 100 Terahertz (THz) electromagnetic signal on a unified chip heterostructure. Furthermore, it integrates a macroscopically coherent, spin-polarized electron emitting framework capable of driving superradiant high-energy photonic states.
