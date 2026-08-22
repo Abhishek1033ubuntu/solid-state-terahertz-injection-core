@@ -1,0 +1,4 @@
+│   ├── 01_matter_laser_chip_core.gds          # Emitter core layer
+│   ├── 02_matter_laser_vivaldi_system.gds     # Vivaldi antenna integration
+│   ├── 03_matter_laser_logic_splitter.gds     # Monolayer logic gate layout
+│   └── 04_matter_laser_wireless_antenna.gds   # Out-of-plane extraction array
