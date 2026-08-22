@@ -1,9 +1,17 @@
-cff-version: 1.0.0
-title: "solid-state-terahertz-injection-core"
-message: "If you use this Research POC, please cite it as below."
+cff-version: 1.2.0
+message: "If you reference or build upon this architecture or simulation framework, please cite it as below."
 authors:
   - family-names: "Singh"
     given-names: "Abhishek"
-    orcid: "https://orcid.org/0009-0004-6913-096X"
-version: 1.0.0
-date-released: 2026-05-28
+title: "Monolithic Solid-State Terahertz Waveguide Injection Core & Unified Matter-Laser Architecture"
+date-released: 2026-08-22
+url: "https://github.com/Abhishek1033ubuntu/Terahertz-Waveguide-Injection-Core"
+repository-code: "https://github.com/Abhishek1033ubuntu/Terahertz-Waveguide-Injection-Core"
+license: MIT
+keywords:
+  - terahertz
+  - plasmonics
+  - quantum logic
+  - superradiance
+  - high-performance computing
+  - semiconductor physics
