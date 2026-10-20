@@ -1,17 +1,21 @@
 cff-version: 1.2.0
-message: "If you reference or build upon this architecture or simulation framework, please cite it as below."
+message: "If you use this repository or its technical papers, please cite it using the metadata below."
+title: "Solid-State Terahertz Injection Core & Logic Architecture"
+abstract: "Topological Soliton Logic, Phi-Node Purification, and Semiclassical 1.0 THz Phononic-Shielded x86 Computing Architecture."
+version: "1.1.0"
+date-released: "2026-10-20"
+repository-code: "https://github.com/Abhishek1033ubuntu/solid-state-terahertz-injection-core"
+license: "MIT"
 authors:
   - family-names: "Singh"
     given-names: "Abhishek"
-title: "Monolithic Solid-State Terahertz Waveguide Injection Core & Unified Matter-Laser Architecture"
-date-released: 2026-08-22
-url: "https://github.com/Abhishek1033ubuntu/Terahertz-Waveguide-Injection-Core"
-repository-code: "https://github.com/Abhishek1033ubuntu/Terahertz-Waveguide-Injection-Core"
-license: MIT
+    orcid: "https://orcid.org/0009-0004-6913-096X"
+    email: "abhishek1033@gmail.com"
+  - name: "Team Gemini"
+    website: "https://deepmind.google/technologies/gemini/"
 keywords:
-  - terahertz
-  - plasmonics
-  - quantum logic
-  - superradiance
-  - high-performance computing
-  - semiconductor physics
+  - "Terahertz Computing"
+  - "Phononic Shielding"
+  - "Topological Soliton Logic"
+  - "Carbon Nanotubes"
+  - "x86 Architecture"
