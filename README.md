@@ -1,11 +1,12 @@
 # Monolithic Solid-State Terahertz Waveguide Injection Core & Unified Matter-Laser Architecture
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22057568-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22057568)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Research_POC-orange?style=for-the-badge)](https://github.com/Abhishek1033ubuntu)
-[![Type](https://img.shields.io/badge/Type-Simulation_Model-blue?style=for-the-badge)](https://github.com/Abhishek1033ubuntu)
-[![Author](https://img.shields.io/badge/Lead%20Author-Abhishek%20Singh-orange.svg?style=for-the-badge)](https://orcid.org/0009-0004-6913-096X)
-[![AI Support](https://img.shields.io/badge/AI%20Collaborator-Team%20Gemini-purple.svg?style=for-the-badge)](#author--collaborator-metadata)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23494038-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23494038) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE) 
+[![Status](https://img.shields.io/badge/Status-Research_POC-orange?style=for-the-badge)](https://github.com/Abhishek1033ubuntu) 
+[![Type](https://img.shields.io/badge/Type-Simulation_Model-blue?style=for-the-badge)](https://github.com/Abhishek1033ubuntu) 
+[![Author](https://img.shields.io/badge/Lead%20Author-Abhishek%20Singh-orange.svg?style=for-the-badge)](https://orcid.org/0009-0004-6913-096X) 
+[![AI Support](https://img.shields.io/badge/AI%20Collaborator-Team%20Gemini-purple.svg?style=for-the-badge)](#author--collaborator-metadata) 
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/Abhishek1033ubuntu)  
 
 ---
 
